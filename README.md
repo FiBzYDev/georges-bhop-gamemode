@@ -5,6 +5,12 @@ Info: I started Bunny Hoping on 2014 and this was GFL's top bhop gamemode of its
 
 - If you find if something is better coded feel free to use and edit your gamemode
 
+Top Gamemode Players:
+-- 1337 Designs
+-- Carmac
+-- rhythm
+-- srsly
+
 What I edited: 
 - Config for easy setting changes
 - Custom CS:S Ammo Hud / CS:S Weapon FoV
