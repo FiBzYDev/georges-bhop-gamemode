@@ -24,5 +24,5 @@ Should be all set to go!
 -----------------------------------
 
 Zoning:
-
-I think its !addarea 1 (for start zone)
+- Change your Steam ID in /data admin timer
+- I think its !addarea 1 (for start zone) it's been 10 years since i touched this
