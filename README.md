@@ -3,7 +3,7 @@ Georges Bunny Hop Gamemode from 2015 - Public Release
 
 Info: I started Bunny Hoping on 2014 and this was GFL's top bhop gamemode of its time, this gamemode was privated I had paid George for this it was about 68 USD at the time. This gamemode is very nostalgic and brings back very good memories of rhythm and a few others when we used to play.
 
-- If you find if something is better coded feel free to use and edit your gamemode
+- If you find if something is better coded feel free to use and edit your gamemode iv'e added CS:S settings verson if you want that one too
 
 Top Gamemode Players:
 -- 1337 Designs
