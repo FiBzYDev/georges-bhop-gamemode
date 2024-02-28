@@ -20,3 +20,9 @@ Place data/ folder in garrysmod/
 sv.db also in garrysmod/
 
 Should be all set to go!
+
+-----------------------------------
+
+Zoning:
+
+I think its !addarea 1 (for start zone)
