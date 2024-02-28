@@ -7,7 +7,7 @@ Info: I started Bunny Hoping on 2014 and this was GFL's top bhop gamemode of its
 
 What I edited: 
 - Config for easy setting changes
-- Custom CS:S Ammo Hud
+- Custom CS:S Ammo Hud / CS:S Weapon FoV
 - TAS Style (Slow Mo) and Others but works Normal on Replays
 - Server Name Changer very few 3 seconds
 
