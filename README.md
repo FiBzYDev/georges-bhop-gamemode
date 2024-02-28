@@ -10,7 +10,7 @@ What I edited:
 - Custom CS:S Ammo Hud / CS:S Weapon FoV
 - TAS Style (Slow Mo) and Others but works Normal on Replays
 - Server Name Changer very few 3 seconds
-
+- FoV Changer CVar
 
 ![20240228022825_1](https://github.com/FiBzYDev/georges-bhop-gamemode/assets/58349075/3a8c6938-eab4-4d78-9ef7-81998d192242)
 
